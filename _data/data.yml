@@ -13,42 +13,42 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: anmakarukha@gmail.com
+    phone: #012 345 6789
+    timezone: #America/Cancun Timezone
+    citizenship: #Ukrainian
+    website: #blog.webjeda.com #do not add http://
+    linkedin: https://www.linkedin.com/in/andrii-makarukha-222780138/
+    xing: #alandoe
+    github: #sharu725
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: #'@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: #http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Ukrainian
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: Advanced
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: #Spanish
+          level: #Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Data
           link:
 
-        - item: Snowboarding
+        - item: Cycling
           link:
 
         - item: Cooking
@@ -57,71 +57,65 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Considerable experienced in designing, implementing and coordinating of production process projects.
+      Profound experience in preventive and predictive maintenance. Well handling of automation systems. 
+      Coordinating of a team. Excellent in safety and risk management. Troubleshooting.
+      
+      Good familiar with ETL and BI tools such as SQL, iPython Jupyter notebook,
+      Tableau, MS Excel, Power Query, Power Pivot, Power BI.
+      I have a great passion for using numbers and data to solve issues that will improve business
+      and bring real profit for data-driven decision makers.
+      #Second paragraph if required.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Master Degree in Industrial Automation & Control Systems #Computer Science
+        university: National University of Food Technology
+        time: 2002 - 2007
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          #Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: #Business Intelligence
+        university: #DAN.IT Education
+        time: #2021 - 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          #The course is based on original materials adapting the Israeli Telem
+          methodology, the modules cover all aspects of analytics, from the
+          basics of databases and backend support to the development and
+          maintenance of automated interactive reports.
+            - Data preparation
+            - Data modeling
+            - Data visualization
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Maintenance Team Lead
+        time: 2013 - Present
+        company: Imperial Tobacco, Kyiv, Ukraine
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Responsible for coordinating of automatic systems installation,
+          start up, FAT/UAT & commissioning.
+
+          Maintenance planning, scheduling and coordinating
+            - Spareparts Database creating and managing
+            - Building visual reports
+      - role: Senior Automation Engineer
+        time: 2008 - 2013
+        company: SC Johnson, Kyiv, Ukraine
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Technical support of Production.
+            - Choosing optimal technical designs
+            - Coordinating of automation engineers
+      - role: #UI Developer
+        time: #2012 - 2014
+        company: #Amazon, London
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          #Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
@@ -130,38 +124,33 @@ experiences:
             - Bullet point
 
 certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+      title: Data Analyst
+      list: 
+        - name: Business Intelligence
+          start: 2021
+          end: 2022
+          organization: DAN.IT Education
+          credentialid: 
+          credentialurl: https://dan-it.com.ua/certificates/business-intelligence/andrii-makarukha/
+          credentialname: 
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
+            The course is based on original materials adapting the Israeli Telem
+          methodology, the modules cover all aspects of analytics, from the
+          basics of databases and backend support to the development and
+          maintenance of automated interactive reports. 
             
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
-        - name: Git learning
-          start: 2019
+            - Data preparation
+            - Data modeling
+            - Data visualization 
+        - name: #Git learning
+          start: #2019
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: #Microsoft
+          credentialid: #111-222
+          credentialurl: #www.github.com
+          credentialname: #Github
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
+            #Older certification. Lorem ipsum dolor sit amet, consectetur 
             adipiscing elit.
             Nullam eget orci purus. Nullam ultrices neque nibh. 
             Aenean fermentum, felis vulputate suscipit accumsan, 
@@ -181,84 +170,87 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: #DevStudio
+        link: #"#"
+        tagline: #"A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: #Tempo
+        link: #"#"
+        tagline: #"A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: #Atom
+        link: #"#"
+        tagline: #"A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: #Delta
+        link: #"#"
+        tagline: #"A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    title: OSS Contributions
+    title: #OSS Contributions
     intro: >
-      You can list your open source software contributions in this
+      #You can list your open source software contributions in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: #Tempo
+        link: #"#"
+        tagline: #"A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: #Atom
+        link: #"#"
+        tagline: #"A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: #Delta
+        link: #"#"
+        tagline: #"A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: #Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
+      #You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: #The Art of Computer Programming
+        link: #"#"
+        authors: #Donald E. Knuth
+        conference: #Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: #"Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: #"#"
+        authors: #Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: #"Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: #A syntax directed compiler for Algol 60
+        link: #"#"
+        authors: #Edgar T. Irons
+        conference: #"Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: SQL
         level: 60%
+
+      - name: Python & Jupyter notebook
+        level: 55%
+
+      - name: DAX
+        level: 40%
+
+      - name: Power BI
+        level: 75%
+
+      - name: MS Excel
+        level: 80%
+
+      - name: Power Query
+        level: 65%
+
+      - name: Tableau
+        level: 30%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
