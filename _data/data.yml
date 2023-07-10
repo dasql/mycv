@@ -68,8 +68,10 @@ certifications:
         The course is based on original materials adapting the Israeli
         Telem methodology, the modules cover all aspects of analytics, from
         the basics of databases and backend support to the development and
-        maintenance of automated interactive reports. - Data preparation
-        - Data modeling - Data visualization
+        maintenance of automated interactive reports. 
+        - Data preparation
+        - Data modeling 
+        - Data visualization
 projects:
   title: Projects
   intro: >
